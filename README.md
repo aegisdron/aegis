@@ -89,9 +89,10 @@
 
   <section class="section" id="kapcsolat">
     <h2>Kapcsolat</h2>
+
     <div class="contact-box">
-      <p><strong>E-mail:</strong> info@aegisdrones.hu</p>
-      <p><strong>Telefon:</strong> +36 30 000 0000</p>
+      <p><strong>E-mail:</strong> aegis.drone@gmail.com</p>
+      <p><strong>Telefon:</strong> +36 30 374 4716</p>
       <p><strong>Székhely:</strong> Budapest</p>
       <p>Kérjen ajánlatot, vagy egyeztessünk személyesen a konkrét feladatról.</p>
     </div>
