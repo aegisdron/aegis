@@ -5,6 +5,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>AEGIS Drone Services</title>
+  
   <style>
     body { margin: 0; font-family: Arial, sans-serif; background: #f4f6f8; color: #1a1a1a; }
     header { background: #0a1a2a; color: white; padding: 40px 20px; text-align: center; }
